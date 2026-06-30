@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://markandsonsprojects.com/sitemap.xml
