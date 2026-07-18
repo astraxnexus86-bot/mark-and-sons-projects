@@ -104,12 +104,6 @@ const SERVICES = [
   { title: 'Shoe Racks', img: 'shoerack-1.jpg', desc: 'Custom built-in shoe storage solutions designed for organization, accessibility and visual elegance.' },
   { title: 'Sliding Doors', img: 'glass_walldrope_3.jpg', desc: 'Smooth-action sliding wooden doors — barn style, room dividers and space-saving entryways.' },
   { title: 'TV Units', img: 'tvunit-1.jpg', desc: 'Floating media walls and integrated entertainment units crafted in premium timber finishes.' },
-  { title: 'Cabinets', img: 'kitchen-frank.jpg', desc: 'Bespoke cabinetry for any room — from display cabinets to storage solutions, built to last.' },
-  { title: 'Built-in Cupboards', img: 'wardrobe-2.jpg', desc: 'Space-maximizing built-in cupboards designed to your dimensions with seamless integration.' },
-  { title: 'Reception Desks', img: 'reception-1.jpg', desc: 'Striking reception desks that define your brand and welcome clients with premium craftsmanship.' },
-  { title: 'Shop Fittings', img: 'office-1.jpg', desc: 'Complete retail interiors — display units, counters and fixtures designed to elevate your brand.' },
-  { title: 'Custom Furniture', img: 'furniture-1.jpg', desc: 'One-of-a-kind furniture pieces crafted to your exact specifications using premium hardwoods.' },
-  { title: 'Wood Renovations', img: 'staircase-2.jpg', desc: 'Restoration and refinishing of existing timber work — staircases, doors, floors and heritage joinery.' },
 ];
 function buildServices() {
   const grid = document.getElementById('services-grid');
